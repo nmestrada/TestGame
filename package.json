@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@popmotion/popcorn": "^0.4.0",
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "expo-graphics-rnge": "^1.2.0",
     "expo-three": "^4.0.5",
     "lodash": "^4.17.11",
